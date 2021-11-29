@@ -1,10 +1,18 @@
 CUCCATO MATTIA [simulazione_biblioteca]
 
-DATABASE -> simulazione_biblioteca
-START VUEJS -> npm run serve
+1. Installazione:
+	-VUE -> npm install
+	-LARAVEL -> composer update
+
+2. Creazione Database
+	DATABASE -> simulazione_biblioteca
+
+3. Avvio FE-BE
+START VUE -> npm run serve
 START LARAVEL -> php artisan serve
 
-NOTE: 
--a livello front-end, manca solo la modifica di un libro. A back-end il metodo c'è ed è funzionante
 
--migliorare la grafica# biblioteca
+NOTE: 
+-potrebbe non essere presente il file .env su laravel perchè ho avuto problemi con il gitignore
+-a livello front-end, manca solo la modifica di un libro. A back-end il metodo c'è ed è funzionante;
+-migliorare la grafica.

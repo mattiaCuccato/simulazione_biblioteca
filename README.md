@@ -13,6 +13,5 @@ START LARAVEL -> php artisan serve
 
 
 NOTE: 
--potrebbe non essere presente il file .env su laravel perchè ho avuto problemi con il gitignore
 -a livello front-end, manca solo la modifica di un libro. A back-end il metodo c'è ed è funzionante;
--migliorare la grafica.
+-migliorare la grafica :)
